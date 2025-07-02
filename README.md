@@ -120,3 +120,4 @@ This Amazon Product Review Analysis project provided valuable hands-on experienc
 4. Filtering and Slicers enhance dashboard interactivity, allowing users to focus on the most relevant data (e.g., top categories or discount levels).
 5. Custom Formatting (e.g., “₹k”) makes numerical data cleaner and easier to read, improving dashboard aesthetics and understanding.
 6. Data-Driven Storytelling: Turning raw data into actionable insights required not just analysis, but also thoughtful interpretation, formatting, and organization for a non-technical audience.
+
