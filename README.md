@@ -8,3 +8,6 @@ Excel (Power Query, Pivot Tables, Charts)
 Cleaned dataset, dashboard visuals, and insights
 ## Objective:
 Demonstrate core data analysis skills — data cleaning, transformation, visualization, and interpretation.
+
+....
+
