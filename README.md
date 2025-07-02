@@ -110,3 +110,13 @@ Chart Type: Column Chart
 Method: Calculated column: Average Rating + (Rating Count / 1000) → sorted
 Pivot Table: Used to extract top 5 products
 Interpretation: Balanced metric combining popularity and satisfaction.
+
+## Conclusion
+This Amazon Product Review Analysis project provided valuable hands-on experience in applying core Excel data analysis techniques to extract insights from a real-world dataset. By answering 14 targeted business questions, I was able to build a clean, interactive dashboard that highlights key metrics around product ratings, discounts, pricing, and customer engagement.
+## key Learnings:
+Pivot Tables are powerful for summarizing and slicing data efficiently, especially when working with large datasets.
+Calculated Columns and formulas like COUNTIF helped derive new insights beyond the raw data.
+Chart Selection Matters: Choosing the right chart types (e.g., clustered column, pie chart, scatter plot) significantly affects how clearly insights are communicated.
+Filtering and Slicers enhance dashboard interactivity, allowing users to focus on the most relevant data (e.g., top categories or discount levels).
+Custom Formatting (e.g., “₹k”) makes numerical data cleaner and easier to read, improving dashboard aesthetics and understanding.
+Data-Driven Storytelling: Turning raw data into actionable insights required not just analysis, but also thoughtful interpretation, formatting, and organization for a non-technical audience.
